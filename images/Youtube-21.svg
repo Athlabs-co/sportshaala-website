@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Ebene_1" data-name="Ebene 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 44.1 44.1">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #404040;
+        stroke-miterlimit: 10;
+        stroke-width: 3.22px;
+      }
+
+      .cls-2 {
+        fill: #404040;
+      }
+    </style>
+  </defs>
+  <path class="cls-2" d="M22.1,0C9.9,0,0,9.9,0,22.1s9.9,22.1,22.1,22.1,22.1-9.9,22.1-22.1c-.1-12.2-10-22.1-22.1-22.1Zm12.9,30.1c0,2.7-2.2,4.8-4.8,4.8H14c-2.7,0-4.8-2.2-4.8-4.8V14c0-2.7,2.2-4.8,4.8-4.8H30.1c2.7,0,4.8,2.2,4.8,4.8V30.1h.1Z"/>
+  <circle class="cls-1" cx="22.1" cy="22.1" r="6.6"/>
+  <circle class="cls-2" cx="30.3" cy="13.2" r="1.9"/>
+</svg>
