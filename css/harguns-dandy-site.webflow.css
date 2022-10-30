@@ -9803,6 +9803,10 @@ blockquote {
   background-image: url('../images/fC5K1X9vTnA-SD.jpg');
 }
 
+.post_image.video-3 {
+  background-image: url('https://i9.ytimg.com/vi_webp/NDKPrtUNeKM/mqdefault.webp?v=634c5dcf&sqp=CNDU-JoG&rs=AOn4CLBnLnD87vAprNr6aCKNnTEI_kTpEQ');
+}
+
 .post_image.strength-course {
   height: 245px;
   border-top-left-radius: 0px;
