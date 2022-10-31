@@ -11744,6 +11744,30 @@ blockquote {
   text-transform: uppercase;
 }
 
+.apply_more {
+  position: relative;
+  z-index: 30;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  margin-top: 10px;
+  padding: 16px 32px;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  border-radius: 5px;
+  background-color: #404040;
+  -webkit-transition: all 400ms cubic-bezier(.25, .46, .45, .94);
+  transition: all 400ms cubic-bezier(.25, .46, .45, .94);
+  color: #fff;
+  font-size: 11px;
+  letter-spacing: 3px;
+  text-decoration: none;
+  text-transform: uppercase;
+}
+
 .show_more:hover {
   background-color: #740200;
 }
